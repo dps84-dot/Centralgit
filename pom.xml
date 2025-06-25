@@ -10,7 +10,7 @@
   <packaging>war</packaging>
 
 
-  <name>Centralgit</name>
+  <name>Centralgit</name>..
 
  <dependencies>
   <dependency>
